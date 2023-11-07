@@ -19,7 +19,7 @@
   },
   "swap": {
     "title": "Swap",
-    "type": "menu",
+    "type": "menu", // Définissez le type sur "menu" pour afficher le menu
     "items": {
       "swap-v2": {
         "title": "Swap V2 ↗",
@@ -31,8 +31,7 @@
         "href": "https://swap-v3.jolnir.taiko.xyz",
         "newWindow": true
       }
-    },
-    "display": "hidden"
+    }
   },
   "block-explorer": {
     "title": "Explorer ↗",
