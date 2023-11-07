@@ -19,7 +19,7 @@
   },
   "swap": {
     "title": "Swap",
-    "type": "menu", // Définissez le type sur "menu" pour afficher le menu
+    "type": "menu",
     "items": {
       "swap-v2": {
         "title": "Swap V2 ↗",
